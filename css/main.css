@@ -1,0 +1,65 @@
+.main-header {
+  background: url(../img/background.jpg);
+  min-height: 600px;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+.main-header-solutions {
+  background: url(../img/background.jpg);
+  min-height: 350px;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+.main-header-solutions .showcase {
+  padding-top: 100px;
+}
+
+.active-link {
+  color: #d847f1;
+  font-weight: bold;
+}
+
+.main-header .showcase {
+  padding-top: 100px;
+}
+
+.section-developers {
+  background: url(../img/code.jpg);
+  background-size: cover;
+  background-position: center;
+  border-top: purple solid 5px;
+  border-bottom: purple solid 5px;
+  min-height: 180px;
+  position: relative;
+}
+
+.section-podcast {
+  background: url(../img/circuit.jpg);
+  background-size: cover;
+  background-position: center;
+  border-top: purple solid 5px;
+  border-bottom: purple solid 5px;
+  min-height: 180px;
+  position: relative;
+}
+
+.primary-overlay {
+  background: rgba(112, 81, 176, 0.6);
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.section-podcast .btn-large {
+  margin-top: 25px;
+}
+
+.btn-extend {
+  display: block;
+  width: 100%;
+}
